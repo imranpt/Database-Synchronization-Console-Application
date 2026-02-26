@@ -4,7 +4,7 @@
 
 This project is a **Java-based console application** designed to simulate basic **database management and synchronization operations**. It allows users to create database files, compare databases, and receive alerts through a menu-driven interface.
 
-This application was developed as part of a **university coursework / practice project** to demonstrate Java fundamentals such as:
+This application was developed as a **Personal project** to demonstrate Java fundamentals such as:
 
 * File handling
 * User input handling
